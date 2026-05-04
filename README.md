@@ -13,12 +13,3 @@
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 My GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BR3NNK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Breno's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR3NNK&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="150" />
-</p>
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BR3NNK&theme=tokyonight)
